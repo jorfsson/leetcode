@@ -1,13 +1,9 @@
 {
     "two-sum": {
         "url": "https://leetcode.com/problems/two-sum",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704313"
-    },
-    "add-two-numbers": {
-        "url": "https://leetcode.com/problems/add-two-numbers",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704323"
+        "count": 2,
+        "updated_time": "2025-07-05T11:41:42.922622",
+        "revisit_date": "2025-07-08"
     },
     "longest-substring-without-repeating-characters": {
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",

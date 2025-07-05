@@ -3,7 +3,7 @@ from io import TextIOWrapper
 from argparse import ArgumentParser
 from pathlib import Path
 
-from datetime import datetime
+from datetime import datetime, timedelta
 import regex
 from sklearn.preprocessing import MinMaxScaler
 import numpy as np
@@ -71,7 +71,7 @@ class LeetCode:
             return
         
         self._problems[problem]['count'] += 1
-        self._problems[problem]['updated_datetime'] = datetime.now().isoformat()
+        self._problems[problem]['updated_time'] = datetime.now().isoformat()
         self._problems[problem]['revisit_date'] = self._get_next_revisit_date(self._problems[problem]['count'])
         self._update_data()
         return self._problems[problem]['count']
@@ -79,8 +79,8 @@ class LeetCode:
     def _get_next_revisit_date(self, count: int) -> datetime.date:
         days = [1, 3, 7, 14, 30, 60, 90]
         if count < len(days):
-            return datetime.now().date() + datetime.timedelta(days=days[count - 1])
-        return datetime.now().date() + datetime.timedelta(days=90)
+            return (datetime.now().date() + timedelta(days=days[count - 1])).isoformat()
+        return (datetime.now().date() + timedelta(days=90)).isoformat()
 
     def get_count(self, problem: str) -> int:
         if problem not in self._problems:
