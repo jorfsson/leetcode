@@ -1,7 +1,7 @@
 {
     "two-sum": {
         "url": "https://leetcode.com/problems/two-sum",
-        "count": 1,
+        "count": 0,
         "updated_time": "2025-05-06T16:15:34.704313"
     },
     "add-two-numbers": {
@@ -11,12 +11,12 @@
     },
     "longest-substring-without-repeating-characters": {
         "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "count": 1,
+        "count": 0,
         "updated_time": "2025-05-06T16:15:34.704324"
     },
     "median-of-two-sorted-arrays": {
         "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
-        "count": 2,
+        "count": 0,
         "updated_time": "2025-05-06T16:15:34.704326"
     },
     "longest-palindromic-substring": {
@@ -31,7 +31,7 @@
     },
     "reverse-integer": {
         "url": "https://leetcode.com/problems/reverse-integer",
-        "count": 3,
+        "count": 0,
         "updated_time": "2025-05-06T16:15:34.704330"
     },
     "count-good-nodes-in-binary-tree": {
