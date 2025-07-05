@@ -92,10 +92,10 @@ class LeetCode:
     
     def get_next_problem(self) -> str:
         elements = [self._problems[e] for e in self._problems]
-        elements.sort(key=lambda x: x.get('revisit_date', datetime.now().date()))
+        elements.sort(key=lambda x: x.get('revisit_date', datetime.now().date().isoformat()))
         
         for e in elements:
-            if 'revisit_date' in e and e['revisit_date'] <= datetime.now().date():
+            if 'revisit_date' in e and datetime.strptime(e['revisit_date'], "%Y-%m-%d").date() <= datetime.now().date():
                 print(e['url'])
                 return
         for e in elements:
