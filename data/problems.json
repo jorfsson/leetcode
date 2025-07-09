@@ -1,749 +1,1053 @@
 {
-    "two-sum": {
-        "url": "https://leetcode.com/problems/two-sum",
-        "count": 2,
-        "updated_time": "2025-07-05T11:41:42.922622",
-        "revisit_date": "2025-07-08"
-    },
-    "longest-substring-without-repeating-characters": {
-        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-        "count": 1,
-        "updated_time": "2025-07-05T13:24:11.729133",
-        "revisit_date": "2025-07-06"
-    },
-    "median-of-two-sorted-arrays": {
-        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704326"
-    },
-    "longest-palindromic-substring": {
-        "url": "https://leetcode.com/problems/longest-palindromic-substring",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704328"
-    },
-    "coin-change-ii": {
-        "url": "https://leetcode.com/problems/coin-change-ii",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704329"
-    },
-    "reverse-integer": {
-        "url": "https://leetcode.com/problems/reverse-integer",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704330"
-    },
-    "count-good-nodes-in-binary-tree": {
-        "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704332"
-    },
-    "regular-expression-matching": {
-        "url": "https://leetcode.com/problems/regular-expression-matching",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704333"
-    },
-    "container-with-most-water": {
-        "url": "https://leetcode.com/problems/container-with-most-water",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704334"
-    },
-    "rotting-oranges": {
-        "url": "https://leetcode.com/problems/rotting-oranges",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704335"
-    },
-    "3sum": {
-        "url": "https://leetcode.com/problems/3sum",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704337"
-    },
-    "letter-combinations-of-a-phone-number": {
-        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704338"
-    },
-    "remove-nth-node-from-end-of-list": {
-        "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704339"
-    },
-    "valid-parentheses": {
-        "url": "https://leetcode.com/problems/valid-parentheses",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704341"
-    },
-    "merge-two-sorted-lists": {
-        "url": "https://leetcode.com/problems/merge-two-sorted-lists",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704342"
-    },
-    "generate-parentheses": {
-        "url": "https://leetcode.com/problems/generate-parentheses",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704343"
-    },
-    "merge-k-sorted-lists": {
-        "url": "https://leetcode.com/problems/merge-k-sorted-lists",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704345"
-    },
-    "reverse-nodes-in-k-group": {
-        "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704346"
-    },
-    "diameter-of-binary-tree": {
-        "url": "https://leetcode.com/problems/diameter-of-binary-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704347"
-    },
-    "search-in-rotated-sorted-array": {
-        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704348"
-    },
-    "valid-sudoku": {
-        "url": "https://leetcode.com/problems/valid-sudoku",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704350"
-    },
-    "combination-sum": {
-        "url": "https://leetcode.com/problems/combination-sum",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704351"
-    },
-    "combination-sum-ii": {
-        "url": "https://leetcode.com/problems/combination-sum-ii",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704352"
-    },
-    "trapping-rain-water": {
-        "url": "https://leetcode.com/problems/trapping-rain-water",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704354"
-    },
-    "multiply-strings": {
-        "url": "https://leetcode.com/problems/multiply-strings",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704355"
-    },
-    "jump-game-ii": {
-        "url": "https://leetcode.com/problems/jump-game-ii",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704356"
-    },
-    "permutations": {
-        "url": "https://leetcode.com/problems/permutations",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704358"
-    },
-    "rotate-image": {
-        "url": "https://leetcode.com/problems/rotate-image",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704359"
-    },
-    "group-anagrams": {
-        "url": "https://leetcode.com/problems/group-anagrams",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704360"
-    },
-    "powx-n": {
-        "url": "https://leetcode.com/problems/powx-n",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704361"
-    },
-    "n-queens": {
-        "url": "https://leetcode.com/problems/n-queens",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704363"
-    },
-    "maximum-subarray": {
-        "url": "https://leetcode.com/problems/maximum-subarray",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704365"
-    },
-    "spiral-matrix": {
-        "url": "https://leetcode.com/problems/spiral-matrix",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704367"
-    },
-    "jump-game": {
-        "url": "https://leetcode.com/problems/jump-game",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704368"
-    },
-    "merge-intervals": {
-        "url": "https://leetcode.com/problems/merge-intervals",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704369"
-    },
-    "insert-interval": {
-        "url": "https://leetcode.com/problems/insert-interval",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704371"
-    },
-    "permutation-in-string": {
-        "url": "https://leetcode.com/problems/permutation-in-string",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704372"
-    },
-    "subtree-of-another-tree": {
-        "url": "https://leetcode.com/problems/subtree-of-another-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704373"
-    },
-    "unique-paths": {
-        "url": "https://leetcode.com/problems/unique-paths",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704375"
-    },
-    "plus-one": {
-        "url": "https://leetcode.com/problems/plus-one",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704376"
-    },
-    "climbing-stairs": {
-        "url": "https://leetcode.com/problems/climbing-stairs",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704377"
-    },
-    "edit-distance": {
-        "url": "https://leetcode.com/problems/edit-distance",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704378"
-    },
-    "set-matrix-zeroes": {
-        "url": "https://leetcode.com/problems/set-matrix-zeroes",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704380"
-    },
-    "search-a-2d-matrix": {
-        "url": "https://leetcode.com/problems/search-a-2d-matrix",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704381"
-    },
-    "minimum-window-substring": {
-        "url": "https://leetcode.com/problems/minimum-window-substring",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704382"
-    },
-    "subsets": {
-        "url": "https://leetcode.com/problems/subsets",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704384"
-    },
-    "word-search": {
-        "url": "https://leetcode.com/problems/word-search",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704385"
-    },
-    "largest-rectangle-in-histogram": {
-        "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704386"
-    },
-    "subsets-ii": {
-        "url": "https://leetcode.com/problems/subsets-ii",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704387"
-    },
-    "decode-ways": {
-        "url": "https://leetcode.com/problems/decode-ways",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704389"
-    },
-    "detect-squares": {
-        "url": "https://leetcode.com/problems/detect-squares",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704390"
-    },
-    "interleaving-string": {
-        "url": "https://leetcode.com/problems/interleaving-string",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704391"
-    },
-    "validate-binary-search-tree": {
-        "url": "https://leetcode.com/problems/validate-binary-search-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704393"
-    },
-    "same-tree": {
-        "url": "https://leetcode.com/problems/same-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704394"
-    },
-    "binary-tree-level-order-traversal": {
-        "url": "https://leetcode.com/problems/binary-tree-level-order-traversal",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704395"
-    },
-    "last-stone-weight": {
-        "url": "https://leetcode.com/problems/last-stone-weight",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704397"
-    },
-    "maximum-depth-of-binary-tree": {
-        "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704398"
-    },
-    "construct-binary-tree-from-preorder-and-inorder-traversal": {
-        "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704399"
-    },
-    "task-scheduler": {
-        "url": "https://leetcode.com/problems/task-scheduler",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704401"
-    },
-    "balanced-binary-tree": {
-        "url": "https://leetcode.com/problems/balanced-binary-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704402"
-    },
-    "distinct-subsequences": {
-        "url": "https://leetcode.com/problems/distinct-subsequences",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704403"
-    },
-    "best-time-to-buy-and-sell-stock": {
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704404"
-    },
-    "binary-tree-maximum-path-sum": {
-        "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704406"
-    },
-    "valid-palindrome": {
-        "url": "https://leetcode.com/problems/valid-palindrome",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704407"
-    },
-    "word-ladder": {
-        "url": "https://leetcode.com/problems/word-ladder",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704408"
-    },
-    "longest-consecutive-sequence": {
-        "url": "https://leetcode.com/problems/longest-consecutive-sequence",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704410"
-    },
-    "surrounded-regions": {
-        "url": "https://leetcode.com/problems/surrounded-regions",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704411"
-    },
-    "palindrome-partitioning": {
-        "url": "https://leetcode.com/problems/palindrome-partitioning",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704412"
-    },
-    "clone-graph": {
-        "url": "https://leetcode.com/problems/clone-graph",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704414"
-    },
-    "gas-station": {
-        "url": "https://leetcode.com/problems/gas-station",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704415"
-    },
-    "palindromic-substrings": {
-        "url": "https://leetcode.com/problems/palindromic-substrings",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704416"
-    },
-    "single-number": {
-        "url": "https://leetcode.com/problems/single-number",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704417"
-    },
-    "copy-list-with-random-pointer": {
-        "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704419"
-    },
-    "word-break": {
-        "url": "https://leetcode.com/problems/word-break",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704420"
-    },
-    "linked-list-cycle": {
-        "url": "https://leetcode.com/problems/linked-list-cycle",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704421"
-    },
-    "reorder-list": {
-        "url": "https://leetcode.com/problems/reorder-list",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704423"
-    },
-    "lru-cache": {
-        "url": "https://leetcode.com/problems/lru-cache",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704424"
-    },
-    "evaluate-reverse-polish-notation": {
-        "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704425"
-    },
-    "maximum-product-subarray": {
-        "url": "https://leetcode.com/problems/maximum-product-subarray",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704427"
-    },
-    "find-minimum-in-rotated-sorted-array": {
-        "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704428"
-    },
-    "min-stack": {
-        "url": "https://leetcode.com/problems/min-stack",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704429"
-    },
-    "valid-parenthesis-string": {
-        "url": "https://leetcode.com/problems/valid-parenthesis-string",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704430"
-    },
-    "two-sum-ii-input-array-is-sorted": {
-        "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704433"
-    },
-    "min-cost-to-connect-all-points": {
-        "url": "https://leetcode.com/problems/min-cost-to-connect-all-points",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704434"
-    },
-    "redundant-connection": {
-        "url": "https://leetcode.com/problems/redundant-connection",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704436"
-    },
-    "max-area-of-island": {
-        "url": "https://leetcode.com/problems/max-area-of-island",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704437"
-    },
-    "reverse-bits": {
-        "url": "https://leetcode.com/problems/reverse-bits",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704438"
-    },
-    "number-of-1-bits": {
-        "url": "https://leetcode.com/problems/number-of-1-bits",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704440"
-    },
-    "house-robber": {
-        "url": "https://leetcode.com/problems/house-robber",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704441"
-    },
-    "binary-tree-right-side-view": {
-        "url": "https://leetcode.com/problems/binary-tree-right-side-view",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704442"
-    },
-    "number-of-islands": {
-        "url": "https://leetcode.com/problems/number-of-islands",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704443"
-    },
-    "happy-number": {
-        "url": "https://leetcode.com/problems/happy-number",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704445"
-    },
-    "reverse-linked-list": {
-        "url": "https://leetcode.com/problems/reverse-linked-list",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704446"
-    },
-    "course-schedule": {
-        "url": "https://leetcode.com/problems/course-schedule",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704447"
-    },
-    "implement-trie-prefix-tree": {
-        "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704449"
-    },
-    "course-schedule-ii": {
-        "url": "https://leetcode.com/problems/course-schedule-ii",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704450"
-    },
-    "design-add-and-search-words-data-structure": {
-        "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704451"
-    },
-    "word-search-ii": {
-        "url": "https://leetcode.com/problems/word-search-ii",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704453"
-    },
-    "house-robber-ii": {
-        "url": "https://leetcode.com/problems/house-robber-ii",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704454"
-    },
-    "kth-largest-element-in-an-array": {
-        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704455"
-    },
-    "contains-duplicate": {
+    "Contains Duplicate": {
         "url": "https://leetcode.com/problems/contains-duplicate",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704456"
+        "updated_datetime": "2025-07-08T19:03:13.694790",
+        "revisit_date": "2025-07-10",
+        "count": 1,
+        "tag": "Arrays & Hashing",
+        "updated_time": "2025-07-09T00:26:51.393793"
     },
-    "invert-binary-tree": {
-        "url": "https://leetcode.com/problems/invert-binary-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704458"
-    },
-    "daily-temperatures": {
-        "url": "https://leetcode.com/problems/daily-temperatures",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704459"
-    },
-    "longest-common-subsequence": {
-        "url": "https://leetcode.com/problems/longest-common-subsequence",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704460"
-    },
-    "kth-smallest-element-in-a-bst": {
-        "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704462"
-    },
-    "network-delay-time": {
-        "url": "https://leetcode.com/problems/network-delay-time",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704463"
-    },
-    "lowest-common-ancestor-of-a-binary-search-tree": {
-        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704464"
-    },
-    "min-cost-climbing-stairs": {
-        "url": "https://leetcode.com/problems/min-cost-climbing-stairs",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704466"
-    },
-    "product-of-array-except-self": {
-        "url": "https://leetcode.com/problems/product-of-array-except-self",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704467"
-    },
-    "sliding-window-maximum": {
-        "url": "https://leetcode.com/problems/sliding-window-maximum",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704468"
-    },
-    "valid-anagram": {
+    "Valid Anagram": {
         "url": "https://leetcode.com/problems/valid-anagram",
+        "updated_datetime": "2025-07-08T19:03:13.694798",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704469"
+        "tag": "Arrays & Hashing"
     },
-    "meeting-rooms": {
-        "url": "https://leetcode.com/problems/meeting-rooms",
+    "Two Sum": {
+        "url": "https://leetcode.com/problems/two-sum",
+        "updated_datetime": "2025-07-08T19:03:13.694800",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704471"
+        "tag": "Arrays & Hashing"
     },
-    "meeting-rooms-ii": {
-        "url": "https://leetcode.com/problems/meeting-rooms-ii",
+    "Group Anagrams": {
+        "url": "https://leetcode.com/problems/group-anagrams",
+        "updated_datetime": "2025-07-08T19:03:13.694801",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704472"
+        "tag": "Arrays & Hashing"
     },
-    "partition-labels": {
-        "url": "https://leetcode.com/problems/partition-labels",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704473"
-    },
-    "graph-valid-tree": {
-        "url": "https://leetcode.com/problems/graph-valid-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704475"
-    },
-    "missing-number": {
-        "url": "https://leetcode.com/problems/missing-number",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704476"
-    },
-    "alien-dictionary": {
-        "url": "https://leetcode.com/problems/alien-dictionary",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704477"
-    },
-    "encode-and-decode-strings": {
-        "url": "https://leetcode.com/problems/encode-and-decode-strings",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704479"
-    },
-    "kth-largest-element-in-a-stream": {
-        "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704480"
-    },
-    "binary-search": {
-        "url": "https://leetcode.com/problems/binary-search",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704481"
-    },
-    "swim-in-rising-water": {
-        "url": "https://leetcode.com/problems/swim-in-rising-water",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704482"
-    },
-    "walls-and-gates": {
-        "url": "https://leetcode.com/problems/walls-and-gates",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704484"
-    },
-    "find-the-duplicate-number": {
-        "url": "https://leetcode.com/problems/find-the-duplicate-number",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704485"
-    },
-    "cheapest-flights-within-k-stops": {
-        "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704486"
-    },
-    "find-median-from-data-stream": {
-        "url": "https://leetcode.com/problems/find-median-from-data-stream",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704488"
-    },
-    "serialize-and-deserialize-binary-tree": {
-        "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704489"
-    },
-    "longest-increasing-subsequence": {
-        "url": "https://leetcode.com/problems/longest-increasing-subsequence",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704490"
-    },
-    "best-time-to-buy-and-sell-stock-with-cooldown": {
-        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704492"
-    },
-    "burst-balloons": {
-        "url": "https://leetcode.com/problems/burst-balloons",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704493"
-    },
-    "coin-change": {
-        "url": "https://leetcode.com/problems/coin-change",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704494"
-    },
-    "number-of-connected-components-in-an-undirected-graph": {
-        "url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704496"
-    },
-    "longest-increasing-path-in-a-matrix": {
-        "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704497"
-    },
-    "reconstruct-itinerary": {
-        "url": "https://leetcode.com/problems/reconstruct-itinerary",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704498"
-    },
-    "counting-bits": {
-        "url": "https://leetcode.com/problems/counting-bits",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704501"
-    },
-    "top-k-frequent-elements": {
+    "Top K Frequent Elements": {
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
+        "updated_datetime": "2025-07-08T19:03:13.694803",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704502"
+        "tag": "Arrays & Hashing"
     },
-    "design-twitter": {
-        "url": "https://leetcode.com/problems/design-twitter",
+    "Encode and Decode Strings": {
+        "url": "https://leetcode.com/problems/encode-and-decode-strings",
+        "updated_datetime": "2025-07-08T19:03:13.694804",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704503"
+        "tag": "Arrays & Hashing"
     },
-    "hand-of-straights": {
-        "url": "https://leetcode.com/problems/hand-of-straights",
+    "Product of Array Except Self": {
+        "url": "https://leetcode.com/problems/product-of-array-except-self",
+        "updated_datetime": "2025-07-08T19:03:13.694806",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704505"
+        "tag": "Arrays & Hashing"
     },
-    "sum-of-two-integers": {
-        "url": "https://leetcode.com/problems/sum-of-two-integers",
+    "Valid Sudoku": {
+        "url": "https://leetcode.com/problems/valid-sudoku",
+        "updated_datetime": "2025-07-08T19:03:13.694807",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704506"
+        "tag": "Arrays & Hashing"
     },
-    "car-fleet": {
+    "Longest Consecutive Sequence": {
+        "url": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "updated_datetime": "2025-07-08T19:03:13.694809",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Arrays & Hashing"
+    },
+    "Valid Palindrome": {
+        "url": "https://leetcode.com/problems/valid-palindrome",
+        "updated_datetime": "2025-07-08T19:03:13.694810",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Two Pointers"
+    },
+    "Two Sum II Input Array Is Sorted": {
+        "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+        "updated_datetime": "2025-07-08T19:03:13.694812",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Two Pointers"
+    },
+    "3Sum": {
+        "url": "https://leetcode.com/problems/3sum",
+        "updated_datetime": "2025-07-08T19:03:13.694813",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Two Pointers"
+    },
+    "Container With Most Water": {
+        "url": "https://leetcode.com/problems/container-with-most-water",
+        "updated_datetime": "2025-07-08T19:03:13.694814",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Two Pointers"
+    },
+    "Trapping Rain Water": {
+        "url": "https://leetcode.com/problems/trapping-rain-water",
+        "updated_datetime": "2025-07-08T19:03:13.694816",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Two Pointers"
+    },
+    "Valid Parentheses": {
+        "url": "https://leetcode.com/problems/valid-parentheses",
+        "updated_datetime": "2025-07-08T19:03:13.694817",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Stack"
+    },
+    "Min Stack": {
+        "url": "https://leetcode.com/problems/min-stack",
+        "updated_datetime": "2025-07-08T19:03:13.694818",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Stack"
+    },
+    "Evaluate Reverse Polish Notation": {
+        "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+        "updated_datetime": "2025-07-08T19:03:13.694820",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Stack"
+    },
+    "Generate Parentheses": {
+        "url": "https://leetcode.com/problems/generate-parentheses",
+        "updated_datetime": "2025-07-08T19:03:13.694821",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Stack"
+    },
+    "Daily Temperatures": {
+        "url": "https://leetcode.com/problems/daily-temperatures",
+        "updated_datetime": "2025-07-08T19:03:13.694822",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Stack"
+    },
+    "Car Fleet": {
         "url": "https://leetcode.com/problems/car-fleet",
+        "updated_datetime": "2025-07-08T19:03:13.694824",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704507"
+        "tag": "Stack"
     },
-    "koko-eating-bananas": {
+    "Largest Rectangle in Histogram": {
+        "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+        "updated_datetime": "2025-07-08T19:03:13.694825",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Stack"
+    },
+    "Binary Search": {
+        "url": "https://leetcode.com/problems/binary-search",
+        "updated_datetime": "2025-07-08T19:03:13.694826",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Binary Search"
+    },
+    "Search a 2D Matrix": {
+        "url": "https://leetcode.com/problems/search-a-2d-matrix",
+        "updated_datetime": "2025-07-08T19:03:13.694828",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Binary Search"
+    },
+    "Koko Eating Bananas": {
         "url": "https://leetcode.com/problems/koko-eating-bananas",
+        "updated_datetime": "2025-07-08T19:03:13.694829",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704509"
+        "tag": "Binary Search"
     },
-    "partition-equal-subset-sum": {
-        "url": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "Find Minimum in Rotated Sorted Array": {
+        "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+        "updated_datetime": "2025-07-08T19:03:13.694831",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704510"
+        "tag": "Binary Search"
     },
-    "pacific-atlantic-water-flow": {
-        "url": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "Search in Rotated Sorted Array": {
+        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "updated_datetime": "2025-07-08T19:03:13.694832",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704511"
+        "tag": "Binary Search"
     },
-    "longest-repeating-character-replacement": {
-        "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704513"
-    },
-    "non-overlapping-intervals": {
-        "url": "https://leetcode.com/problems/non-overlapping-intervals",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704514"
-    },
-    "minimum-interval-to-include-each-query": {
-        "url": "https://leetcode.com/problems/minimum-interval-to-include-each-query",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704515"
-    },
-    "merge-triplets-to-form-target-triplet": {
-        "url": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704516"
-    },
-    "target-sum": {
-        "url": "https://leetcode.com/problems/target-sum",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704518"
-    },
-    "k-closest-points-to-origin": {
-        "url": "https://leetcode.com/problems/k-closest-points-to-origin",
-        "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704519"
-    },
-    "time-based-key-value-store": {
+    "Time Based Key Value Store": {
         "url": "https://leetcode.com/problems/time-based-key-value-store",
+        "updated_datetime": "2025-07-08T19:03:13.694834",
+        "revisit_date": null,
         "count": 0,
-        "updated_time": "2025-05-06T16:15:34.704520"
+        "tag": "Binary Search"
+    },
+    "Median of Two Sorted Arrays": {
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "updated_datetime": "2025-07-08T19:03:13.694835",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Binary Search"
+    },
+    "Best Time to Buy and Sell Stock": {
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "updated_datetime": "2025-07-08T19:03:13.694836",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Sliding Window"
+    },
+    "Longest Substring Without Repeating Characters": {
+        "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "updated_datetime": "2025-07-08T19:03:13.694838",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Sliding Window"
+    },
+    "Longest Repeating Character Replacement": {
+        "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
+        "updated_datetime": "2025-07-08T19:03:13.694843",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Sliding Window"
+    },
+    "Permutation in String": {
+        "url": "https://leetcode.com/problems/permutation-in-string",
+        "updated_datetime": "2025-07-08T19:03:13.694844",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Sliding Window"
+    },
+    "Minimum Window Substring": {
+        "url": "https://leetcode.com/problems/minimum-window-substring",
+        "updated_datetime": "2025-07-08T19:03:13.694846",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Sliding Window"
+    },
+    "Sliding Window Maximum": {
+        "url": "https://leetcode.com/problems/sliding-window-maximum",
+        "updated_datetime": "2025-07-08T19:03:13.694847",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Sliding Window"
+    },
+    "Reverse Linked List": {
+        "url": "https://leetcode.com/problems/reverse-linked-list",
+        "updated_datetime": "2025-07-08T19:03:13.694848",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Linked List"
+    },
+    "Merge Two Sorted Lists": {
+        "url": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "updated_datetime": "2025-07-08T19:03:13.694850",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Linked List"
+    },
+    "Linked List Cycle": {
+        "url": "https://leetcode.com/problems/linked-list-cycle",
+        "updated_datetime": "2025-07-08T19:03:13.694851",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Linked List"
+    },
+    "Reorder List": {
+        "url": "https://leetcode.com/problems/reorder-list",
+        "updated_datetime": "2025-07-08T19:03:13.694852",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Linked List"
+    },
+    "Remove Nth Node From End of List": {
+        "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+        "updated_datetime": "2025-07-08T19:03:13.694854",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Linked List"
+    },
+    "Copy List with Random Pointer": {
+        "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "updated_datetime": "2025-07-08T19:03:13.694855",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Linked List"
+    },
+    "Add Two Numbers": {
+        "url": "https://leetcode.com/problems/add-two-numbers",
+        "updated_datetime": "2025-07-08T19:03:13.694856",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Linked List"
+    },
+    "Find The Duplicate Number": {
+        "url": "https://leetcode.com/problems/find-the-duplicate-number",
+        "updated_datetime": "2025-07-08T19:03:13.694858",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Linked List"
+    },
+    "LRU Cache": {
+        "url": "https://leetcode.com/problems/lru-cache",
+        "updated_datetime": "2025-07-08T19:03:13.694859",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Linked List"
+    },
+    "Merge K Sorted Lists": {
+        "url": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "updated_datetime": "2025-07-08T19:03:13.694861",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Linked List"
+    },
+    "Reverse Nodes in K Group": {
+        "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+        "updated_datetime": "2025-07-08T19:03:13.694862",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Linked List"
+    },
+    "Invert Binary Tree": {
+        "url": "https://leetcode.com/problems/invert-binary-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694863",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Maximum Depth of Binary Tree": {
+        "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694865",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Diameter of Binary Tree": {
+        "url": "https://leetcode.com/problems/diameter-of-binary-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694866",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Balanced Binary Tree": {
+        "url": "https://leetcode.com/problems/balanced-binary-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694867",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Same Tree": {
+        "url": "https://leetcode.com/problems/same-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694868",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Subtree of Another Tree": {
+        "url": "https://leetcode.com/problems/subtree-of-another-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694870",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Lowest Common Ancestor of A Binary Search Tree": {
+        "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694871",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Binary Tree Level Order Traversal": {
+        "url": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+        "updated_datetime": "2025-07-08T19:03:13.694872",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Binary Tree Right Side View": {
+        "url": "https://leetcode.com/problems/binary-tree-right-side-view",
+        "updated_datetime": "2025-07-08T19:03:13.694874",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Count Good Nodes in Binary Tree": {
+        "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694875",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Validate Binary Search Tree": {
+        "url": "https://leetcode.com/problems/validate-binary-search-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694876",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Kth Smallest Element in a BST": {
+        "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+        "updated_datetime": "2025-07-08T19:03:13.694877",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Construct Binary Tree from Preorder and Inorder Traversal": {
+        "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+        "updated_datetime": "2025-07-08T19:03:13.694879",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Binary Tree Maximum Path Sum": {
+        "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+        "updated_datetime": "2025-07-08T19:03:13.694880",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Serialize and Deserialize Binary Tree": {
+        "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694882",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Trees"
+    },
+    "Implement Trie Prefix Tree": {
+        "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694883",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Tries"
+    },
+    "Design Add and Search Words Data Structure": {
+        "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+        "updated_datetime": "2025-07-08T19:03:13.694884",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Tries"
+    },
+    "Word Search II": {
+        "url": "https://leetcode.com/problems/word-search-ii",
+        "updated_datetime": "2025-07-08T19:03:13.694886",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Tries"
+    },
+    "Kth Largest Element in a Stream": {
+        "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+        "updated_datetime": "2025-07-08T19:03:13.694887",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Heap / Priority Queue"
+    },
+    "Last Stone Weight": {
+        "url": "https://leetcode.com/problems/last-stone-weight",
+        "updated_datetime": "2025-07-08T19:03:13.694888",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Heap / Priority Queue"
+    },
+    "K Closest Points to Origin": {
+        "url": "https://leetcode.com/problems/k-closest-points-to-origin",
+        "updated_datetime": "2025-07-08T19:03:13.694890",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Heap / Priority Queue"
+    },
+    "Kth Largest Element in an Array": {
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "updated_datetime": "2025-07-08T19:03:13.694891",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Heap / Priority Queue"
+    },
+    "Task Scheduler": {
+        "url": "https://leetcode.com/problems/task-scheduler",
+        "updated_datetime": "2025-07-08T19:03:13.694892",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Heap / Priority Queue"
+    },
+    "Design Twitter": {
+        "url": "https://leetcode.com/problems/design-twitter",
+        "updated_datetime": "2025-07-08T19:03:13.694893",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Heap / Priority Queue"
+    },
+    "Find Median from Data Stream": {
+        "url": "https://leetcode.com/problems/find-median-from-data-stream",
+        "updated_datetime": "2025-07-08T19:03:13.694895",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Heap / Priority Queue"
+    },
+    "Insert Interval": {
+        "url": "https://leetcode.com/problems/insert-interval",
+        "updated_datetime": "2025-07-08T19:03:13.694896",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Intervals"
+    },
+    "Merge Intervals": {
+        "url": "https://leetcode.com/problems/merge-intervals",
+        "updated_datetime": "2025-07-08T19:03:13.694897",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Intervals"
+    },
+    "Non Overlapping Intervals": {
+        "url": "https://leetcode.com/problems/non-overlapping-intervals",
+        "updated_datetime": "2025-07-08T19:03:13.694898",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Intervals"
+    },
+    "Meeting Rooms": {
+        "url": "https://leetcode.com/problems/meeting-rooms",
+        "updated_datetime": "2025-07-08T19:03:13.694899",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Intervals"
+    },
+    "Meeting Rooms II": {
+        "url": "https://leetcode.com/problems/meeting-rooms-ii",
+        "updated_datetime": "2025-07-08T19:03:13.694901",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Intervals"
+    },
+    "Minimum Interval to Include Each Query": {
+        "url": "https://leetcode.com/problems/minimum-interval-to-include-each-query",
+        "updated_datetime": "2025-07-08T19:03:13.694902",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Intervals"
+    },
+    "Maximum Subarray": {
+        "url": "https://leetcode.com/problems/maximum-subarray",
+        "updated_datetime": "2025-07-08T19:03:13.694903",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Greedy"
+    },
+    "Jump Game": {
+        "url": "https://leetcode.com/problems/jump-game",
+        "updated_datetime": "2025-07-08T19:03:13.694904",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Greedy"
+    },
+    "Jump Game II": {
+        "url": "https://leetcode.com/problems/jump-game-ii",
+        "updated_datetime": "2025-07-08T19:03:13.694906",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Greedy"
+    },
+    "Gas Station": {
+        "url": "https://leetcode.com/problems/gas-station",
+        "updated_datetime": "2025-07-08T19:03:13.694907",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Greedy"
+    },
+    "Hand of Straights": {
+        "url": "https://leetcode.com/problems/hand-of-straights",
+        "updated_datetime": "2025-07-08T19:03:13.694909",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Greedy"
+    },
+    "Merge Triplets to Form Target Triplet": {
+        "url": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet",
+        "updated_datetime": "2025-07-08T19:03:13.694910",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Greedy"
+    },
+    "Partition Labels": {
+        "url": "https://leetcode.com/problems/partition-labels",
+        "updated_datetime": "2025-07-08T19:03:13.694912",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Greedy"
+    },
+    "Valid Parenthesis String": {
+        "url": "https://leetcode.com/problems/valid-parenthesis-string",
+        "updated_datetime": "2025-07-08T19:03:13.694913",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Greedy"
+    },
+    "Subsets": {
+        "url": "https://leetcode.com/problems/subsets",
+        "updated_datetime": "2025-07-08T19:03:13.694914",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Backtracking"
+    },
+    "Combination Sum": {
+        "url": "https://leetcode.com/problems/combination-sum",
+        "updated_datetime": "2025-07-08T19:03:13.694915",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Backtracking"
+    },
+    "Combination Sum II": {
+        "url": "https://leetcode.com/problems/combination-sum-ii",
+        "updated_datetime": "2025-07-08T19:03:13.694917",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Backtracking"
+    },
+    "Permutations": {
+        "url": "https://leetcode.com/problems/permutations",
+        "updated_datetime": "2025-07-08T19:03:13.694918",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Backtracking"
+    },
+    "Subsets II": {
+        "url": "https://leetcode.com/problems/subsets-ii",
+        "updated_datetime": "2025-07-08T19:03:13.694920",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Backtracking"
+    },
+    "Word Search": {
+        "url": "https://leetcode.com/problems/word-search",
+        "updated_datetime": "2025-07-08T19:03:13.694921",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Backtracking"
+    },
+    "Palindrome Partitioning": {
+        "url": "https://leetcode.com/problems/palindrome-partitioning",
+        "updated_datetime": "2025-07-08T19:03:13.694922",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Backtracking"
+    },
+    "Letter Combinations of a Phone Number": {
+        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "updated_datetime": "2025-07-08T19:03:13.694923",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Backtracking"
+    },
+    "N Queens": {
+        "url": "https://leetcode.com/problems/n-queens",
+        "updated_datetime": "2025-07-08T19:03:13.694924",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Backtracking"
+    },
+    "Number of Islands": {
+        "url": "https://leetcode.com/problems/number-of-islands",
+        "updated_datetime": "2025-07-08T19:03:13.694926",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Max Area of Island": {
+        "url": "https://leetcode.com/problems/max-area-of-island",
+        "updated_datetime": "2025-07-08T19:03:13.694927",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Clone Graph": {
+        "url": "https://leetcode.com/problems/clone-graph",
+        "updated_datetime": "2025-07-08T19:03:13.694928",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Walls and Gates": {
+        "url": "https://leetcode.com/problems/walls-and-gates",
+        "updated_datetime": "2025-07-08T19:03:13.694929",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Rotting Oranges": {
+        "url": "https://leetcode.com/problems/rotting-oranges",
+        "updated_datetime": "2025-07-08T19:03:13.694931",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Pacific Atlantic Water Flow": {
+        "url": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+        "updated_datetime": "2025-07-08T19:03:13.694932",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Surrounded Regions": {
+        "url": "https://leetcode.com/problems/surrounded-regions",
+        "updated_datetime": "2025-07-08T19:03:13.694933",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Course Schedule": {
+        "url": "https://leetcode.com/problems/course-schedule",
+        "updated_datetime": "2025-07-08T19:03:13.694934",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Course Schedule II": {
+        "url": "https://leetcode.com/problems/course-schedule-ii",
+        "updated_datetime": "2025-07-08T19:03:13.694935",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Graph Valid Tree": {
+        "url": "https://leetcode.com/problems/graph-valid-tree",
+        "updated_datetime": "2025-07-08T19:03:13.694936",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Number of Connected Components in an Undirected Graph": {
+        "url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+        "updated_datetime": "2025-07-08T19:03:13.694938",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Redundant Connection": {
+        "url": "https://leetcode.com/problems/redundant-connection",
+        "updated_datetime": "2025-07-08T19:03:13.694939",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Word Ladder": {
+        "url": "https://leetcode.com/problems/word-ladder",
+        "updated_datetime": "2025-07-08T19:03:13.694940",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Graphs"
+    },
+    "Network Delay Time": {
+        "url": "https://leetcode.com/problems/network-delay-time",
+        "updated_datetime": "2025-07-08T19:03:13.694942",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Advanced Graphs"
+    },
+    "Reconstruct Itinerary": {
+        "url": "https://leetcode.com/problems/reconstruct-itinerary",
+        "updated_datetime": "2025-07-08T19:03:13.694943",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Advanced Graphs"
+    },
+    "Min Cost to Connect All Points": {
+        "url": "https://leetcode.com/problems/min-cost-to-connect-all-points",
+        "updated_datetime": "2025-07-08T19:03:13.694944",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Advanced Graphs"
+    },
+    "Swim in Rising Water": {
+        "url": "https://leetcode.com/problems/swim-in-rising-water",
+        "updated_datetime": "2025-07-08T19:03:13.694945",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Advanced Graphs"
+    },
+    "Alien Dictionary": {
+        "url": "https://leetcode.com/problems/alien-dictionary",
+        "updated_datetime": "2025-07-08T19:03:13.694947",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Advanced Graphs"
+    },
+    "Cheapest Flights within K Stops": {
+        "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+        "updated_datetime": "2025-07-08T19:03:13.694948",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Advanced Graphs"
+    },
+    "Climbing Stairs": {
+        "url": "https://leetcode.com/problems/climbing-stairs",
+        "updated_datetime": "2025-07-08T19:03:13.694949",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "Min Cost Climbing Stairs": {
+        "url": "https://leetcode.com/problems/min-cost-climbing-stairs",
+        "updated_datetime": "2025-07-08T19:03:13.694950",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "House Robber": {
+        "url": "https://leetcode.com/problems/house-robber",
+        "updated_datetime": "2025-07-08T19:03:13.694951",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "House Robber II": {
+        "url": "https://leetcode.com/problems/house-robber-ii",
+        "updated_datetime": "2025-07-08T19:03:13.694953",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "Longest Palindromic Substring": {
+        "url": "https://leetcode.com/problems/longest-palindromic-substring",
+        "updated_datetime": "2025-07-08T19:03:13.694954",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "Palindromic Substrings": {
+        "url": "https://leetcode.com/problems/palindromic-substrings",
+        "updated_datetime": "2025-07-08T19:03:13.694955",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "Decode Ways": {
+        "url": "https://leetcode.com/problems/decode-ways",
+        "updated_datetime": "2025-07-08T19:03:13.694956",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "Coin Change": {
+        "url": "https://leetcode.com/problems/coin-change",
+        "updated_datetime": "2025-07-08T19:03:13.694957",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "Maximum Product Subarray": {
+        "url": "https://leetcode.com/problems/maximum-product-subarray",
+        "updated_datetime": "2025-07-08T19:03:13.694959",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "Word Break": {
+        "url": "https://leetcode.com/problems/word-break",
+        "updated_datetime": "2025-07-08T19:03:13.694960",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "Longest Increasing Subsequence": {
+        "url": "https://leetcode.com/problems/longest-increasing-subsequence",
+        "updated_datetime": "2025-07-08T19:03:13.694961",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "Partition Equal Subset Sum": {
+        "url": "https://leetcode.com/problems/partition-equal-subset-sum",
+        "updated_datetime": "2025-07-08T19:03:13.694962",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "1D Dynamic Programming"
+    },
+    "Unique Paths": {
+        "url": "https://leetcode.com/problems/unique-paths",
+        "updated_datetime": "2025-07-08T19:03:13.694964",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "2D Dynamic Programming"
+    },
+    "Longest Common Subsequence": {
+        "url": "https://leetcode.com/problems/longest-common-subsequence",
+        "updated_datetime": "2025-07-08T19:03:13.694965",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "2D Dynamic Programming"
+    },
+    "Best Time to Buy and Sell Stock with Cooldown": {
+        "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+        "updated_datetime": "2025-07-08T19:03:13.694966",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "2D Dynamic Programming"
+    },
+    "Coin Change II": {
+        "url": "https://leetcode.com/problems/coin-change-ii",
+        "updated_datetime": "2025-07-08T19:03:13.694967",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "2D Dynamic Programming"
+    },
+    "Target Sum": {
+        "url": "https://leetcode.com/problems/target-sum",
+        "updated_datetime": "2025-07-08T19:03:13.694969",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "2D Dynamic Programming"
+    },
+    "Interleaving String": {
+        "url": "https://leetcode.com/problems/interleaving-string",
+        "updated_datetime": "2025-07-08T19:03:13.694970",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "2D Dynamic Programming"
+    },
+    "Longest Increasing Path in a Matrix": {
+        "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+        "updated_datetime": "2025-07-08T19:03:13.694971",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "2D Dynamic Programming"
+    },
+    "Distinct Subsequences": {
+        "url": "https://leetcode.com/problems/distinct-subsequences",
+        "updated_datetime": "2025-07-08T19:03:13.694972",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "2D Dynamic Programming"
+    },
+    "Edit Distance": {
+        "url": "https://leetcode.com/problems/edit-distance",
+        "updated_datetime": "2025-07-08T19:03:13.694974",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "2D Dynamic Programming"
+    },
+    "Burst Balloons": {
+        "url": "https://leetcode.com/problems/burst-balloons",
+        "updated_datetime": "2025-07-08T19:03:13.694975",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "2D Dynamic Programming"
+    },
+    "Regular Expression Matching": {
+        "url": "https://leetcode.com/problems/regular-expression-matching",
+        "updated_datetime": "2025-07-08T19:03:13.694976",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "2D Dynamic Programming"
+    },
+    "Single Number": {
+        "url": "https://leetcode.com/problems/single-number",
+        "updated_datetime": "2025-07-08T19:03:13.694977",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Bit Manipulation"
+    },
+    "Number of 1 Bits": {
+        "url": "https://leetcode.com/problems/number-of-1-bits",
+        "updated_datetime": "2025-07-08T19:03:13.694978",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Bit Manipulation"
+    },
+    "Counting Bits": {
+        "url": "https://leetcode.com/problems/counting-bits",
+        "updated_datetime": "2025-07-08T19:03:13.694979",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Bit Manipulation"
+    },
+    "Reverse Bits": {
+        "url": "https://leetcode.com/problems/reverse-bits",
+        "updated_datetime": "2025-07-08T19:03:13.694981",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Bit Manipulation"
+    },
+    "Missing Number": {
+        "url": "https://leetcode.com/problems/missing-number",
+        "updated_datetime": "2025-07-08T19:03:13.694982",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Bit Manipulation"
+    },
+    "Sum of Two Integers": {
+        "url": "https://leetcode.com/problems/sum-of-two-integers",
+        "updated_datetime": "2025-07-08T19:03:13.694983",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Bit Manipulation"
+    },
+    "Reverse Integer": {
+        "url": "https://leetcode.com/problems/reverse-integer",
+        "updated_datetime": "2025-07-08T19:03:13.694984",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Bit Manipulation"
+    },
+    "Rotate Image": {
+        "url": "https://leetcode.com/problems/rotate-image",
+        "updated_datetime": "2025-07-08T19:03:13.694985",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Math & Geometry"
+    },
+    "Spiral Matrix": {
+        "url": "https://leetcode.com/problems/spiral-matrix",
+        "updated_datetime": "2025-07-08T19:03:13.694987",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Math & Geometry"
+    },
+    "Set Matrix Zeroes": {
+        "url": "https://leetcode.com/problems/set-matrix-zeroes",
+        "updated_datetime": "2025-07-08T19:03:13.694988",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Math & Geometry"
+    },
+    "Happy Number": {
+        "url": "https://leetcode.com/problems/happy-number",
+        "updated_datetime": "2025-07-08T19:03:13.694989",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Math & Geometry"
+    },
+    "Plus One": {
+        "url": "https://leetcode.com/problems/plus-one",
+        "updated_datetime": "2025-07-08T19:03:13.694990",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Math & Geometry"
+    },
+    "Powx n": {
+        "url": "https://leetcode.com/problems/powx-n",
+        "updated_datetime": "2025-07-08T19:03:13.694991",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Math & Geometry"
+    },
+    "Multiply Strings": {
+        "url": "https://leetcode.com/problems/multiply-strings",
+        "updated_datetime": "2025-07-08T19:03:13.694992",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Math & Geometry"
+    },
+    "Detect Squares": {
+        "url": "https://leetcode.com/problems/detect-squares",
+        "updated_datetime": "2025-07-08T19:03:13.694994",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Math & Geometry"
     }
 }
