@@ -10,30 +10,34 @@
     "Valid Anagram": {
         "url": "https://leetcode.com/problems/valid-anagram",
         "updated_datetime": "2025-07-08T19:03:13.694798",
-        "revisit_date": null,
-        "count": 0,
-        "tag": "Arrays & Hashing"
+        "revisit_date": "2025-07-10",
+        "count": 1,
+        "tag": "Arrays & Hashing",
+        "updated_time": "2025-07-09T17:41:36.550687"
     },
     "Two Sum": {
         "url": "https://leetcode.com/problems/two-sum",
         "updated_datetime": "2025-07-08T19:03:13.694800",
-        "revisit_date": null,
-        "count": 0,
-        "tag": "Arrays & Hashing"
+        "revisit_date": "2025-07-10",
+        "count": 1,
+        "tag": "Arrays & Hashing",
+        "updated_time": "2025-07-09T18:10:45.931906"
     },
     "Group Anagrams": {
         "url": "https://leetcode.com/problems/group-anagrams",
         "updated_datetime": "2025-07-08T19:03:13.694801",
-        "revisit_date": null,
-        "count": 0,
-        "tag": "Arrays & Hashing"
+        "revisit_date": "2025-07-10",
+        "count": 1,
+        "tag": "Arrays & Hashing",
+        "updated_time": "2025-07-09T18:13:37.775415"
     },
     "Top K Frequent Elements": {
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "updated_datetime": "2025-07-08T19:03:13.694803",
-        "revisit_date": null,
-        "count": 0,
-        "tag": "Arrays & Hashing"
+        "revisit_date": "2025-07-10",
+        "count": 1,
+        "tag": "Arrays & Hashing",
+        "updated_time": "2025-07-09T18:40:23.351391"
     },
     "Encode and Decode Strings": {
         "url": "https://leetcode.com/problems/encode-and-decode-strings",
