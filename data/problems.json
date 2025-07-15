@@ -42,24 +42,26 @@
     "Encode and Decode Strings": {
         "url": "https://leetcode.com/problems/encode-and-decode-strings",
         "updated_datetime": "2025-07-08T19:03:13.694804",
-        "revisit_date": "2025-07-13",
-        "count": 1,
+        "revisit_date": "2025-07-16",
+        "count": 2,
         "tag": "Arrays & Hashing",
-        "updated_time": "2025-07-12T22:58:52.680056"
+        "updated_time": "2025-07-13T19:38:56.497220"
     },
     "Product of Array Except Self": {
         "url": "https://leetcode.com/problems/product-of-array-except-self",
         "updated_datetime": "2025-07-08T19:03:13.694806",
-        "revisit_date": null,
-        "count": 0,
-        "tag": "Arrays & Hashing"
+        "revisit_date": "2025-07-14",
+        "count": 1,
+        "tag": "Arrays & Hashing",
+        "updated_time": "2025-07-13T11:24:10.825623"
     },
     "Valid Sudoku": {
         "url": "https://leetcode.com/problems/valid-sudoku",
         "updated_datetime": "2025-07-08T19:03:13.694807",
-        "revisit_date": null,
-        "count": 0,
-        "tag": "Arrays & Hashing"
+        "revisit_date": "2025-07-15",
+        "count": 1,
+        "tag": "Arrays & Hashing",
+        "updated_time": "2025-07-14T18:33:15.957149"
     },
     "Longest Consecutive Sequence": {
         "url": "https://leetcode.com/problems/longest-consecutive-sequence",
