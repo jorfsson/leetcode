@@ -212,15 +212,46 @@ args = parser.parse_args()
 base_uri = Path(__file__).parent
 data_uri = base_uri.parent/"data"
 
+class DataAccess:
+    def __init__(self):
+        self.data = {}
+  
+    def create(self, key, item, *path):
+        # insert data at path
+        target = self.retrieve(path)
+        assert isinstance(target, dict)
+        target[key] = item
+        
+    def retrieve(self, *path):
+        data = None
+        for p in path:
+            if p in self.data:
+                data = data[p]
+        return p
+
+    def update(self, item, *path):
+        target = self.retrieve(path[:-1])
+        target[path[-1]] = item
+    
+    def delete(self):
+        pass
+    
+    # def _update_data(self):
+    #   self._data.seek(0)
+    #   json.dump(self._problems, self._data, indent=4)
+    #   self._data.truncate()
+
+def test_data_access():
+    data_access = DataAccess()
+    data_access.create('key', 'item')
+    data_access.create('key', 'item', 'key')
+
+
 class LeetCode:
     def __init__(self, data: TextIOWrapper):
         self._data = data
         self._problems = json.load(self._data)
 
-    def _update_data(self):
-        self._data.seek(0)
-        json.dump(self._problems, self._data, indent=4)
-        self._data.truncate()
 
     def search(self, problem: str) -> str:
         # First try exact match
@@ -263,6 +294,9 @@ class LeetCode:
         self._problems[problem]['updated_time'] = datetime.now().isoformat()
         self._update_data()
         return self._problems[problem]['count']
+    
+    def add_problem(self, problem: str, category: str) -> None:
+        
     
     def _get_next_revisit_date(self, count: int) -> datetime.date:
         days = [1, 3, 7, 14, 30, 60, 90]
