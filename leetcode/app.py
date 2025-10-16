@@ -18,7 +18,8 @@ neetcode_150 = {
         "Encode and Decode Strings",
         "Product of Array Except Self",
         "Valid Sudoku",
-        "Longest Consecutive Sequence"
+        "Longest Consecutive Sequence",
+        "Move Zeroes"
     ],
     "Two Pointers": [
         "Valid Palindrome",

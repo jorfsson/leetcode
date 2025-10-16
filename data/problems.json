@@ -71,6 +71,14 @@
         "tag": "Arrays & Hashing",
         "updated_time": "2025-09-17T19:05:16.867460"
     },
+      "Move Zeroes": {
+        "url": "https://leetcode.com/problems/move-zeroes",
+        "updated_datetime": "2025-07-08T19:03:13.694810",
+        "revisit_date": null,
+        "count": 0,
+        "tag": "Two Pointers",
+        "updated_time": "2025-08-26T18:08:16.924357"
+    },
     "Valid Palindrome": {
         "url": "https://leetcode.com/problems/valid-palindrome",
         "updated_datetime": "2025-07-08T19:03:13.694810",
