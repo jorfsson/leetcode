@@ -2,50 +2,50 @@
     "Contains Duplicate": {
         "url": "https://leetcode.com/problems/contains-duplicate",
         "updated_datetime": "2025-07-08T19:03:13.694790",
-        "revisit_date": "2025-10-02",
-        "count": 5,
+        "revisit_date": "2026-01-07",
+        "count": 6,
         "tag": "Arrays & Hashing",
-        "updated_time": "2025-09-02T21:43:58.271734"
+        "updated_time": "2025-11-08T10:17:15.818525"
     },
     "Valid Anagram": {
         "url": "https://leetcode.com/problems/valid-anagram",
         "updated_datetime": "2025-07-08T19:03:13.694798",
-        "revisit_date": "2025-10-02",
-        "count": 5,
+        "revisit_date": "2026-01-07",
+        "count": 6,
         "tag": "Arrays & Hashing",
-        "updated_time": "2025-09-02T21:44:04.092625"
+        "updated_time": "2025-11-08T10:39:54.717892"
     },
     "Two Sum": {
         "url": "https://leetcode.com/problems/two-sum",
         "updated_datetime": "2025-07-08T19:03:13.694800",
-        "revisit_date": "2025-10-02",
-        "count": 5,
+        "revisit_date": "2026-01-07",
+        "count": 6,
         "tag": "Arrays & Hashing",
-        "updated_time": "2025-09-02T21:44:08.660558"
+        "updated_time": "2025-11-08T10:40:06.659659"
     },
     "Group Anagrams": {
         "url": "https://leetcode.com/problems/group-anagrams",
         "updated_datetime": "2025-07-08T19:03:13.694801",
-        "revisit_date": "2025-10-02",
-        "count": 5,
+        "revisit_date": "2026-01-07",
+        "count": 6,
         "tag": "Arrays & Hashing",
-        "updated_time": "2025-09-02T21:44:12.963857"
+        "updated_time": "2025-11-08T10:40:08.455702"
     },
     "Top K Frequent Elements": {
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
         "updated_datetime": "2025-07-08T19:03:13.694803",
-        "revisit_date": "2025-10-02",
-        "count": 5,
+        "revisit_date": "2026-01-07",
+        "count": 6,
         "tag": "Arrays & Hashing",
-        "updated_time": "2025-09-02T21:44:17.660584"
+        "updated_time": "2025-11-08T10:40:10.447618"
     },
     "Encode and Decode Strings": {
         "url": "https://leetcode.com/problems/encode-and-decode-strings",
         "updated_datetime": "2025-07-08T19:03:13.694804",
-        "revisit_date": "2025-10-02",
-        "count": 5,
+        "revisit_date": "2026-01-07",
+        "count": 6,
         "tag": "Arrays & Hashing",
-        "updated_time": "2025-09-02T21:44:21.198856"
+        "updated_time": "2025-11-08T10:40:12.121284"
     },
     "Product of Array Except Self": {
         "url": "https://leetcode.com/problems/product-of-array-except-self",
@@ -71,7 +71,7 @@
         "tag": "Arrays & Hashing",
         "updated_time": "2025-09-17T19:05:16.867460"
     },
-      "Move Zeroes": {
+    "Move Zeroes": {
         "url": "https://leetcode.com/problems/move-zeroes",
         "updated_datetime": "2025-07-08T19:03:13.694810",
         "revisit_date": null,
@@ -1071,5 +1071,13 @@
         "revisit_date": null,
         "count": 0,
         "tag": "Math & Geometry"
+    },
+    "Next Permutation": {
+        "url": "https://leetcode.com/problems/next-permutation",
+        "updated_datetime": "2025-10-29T22:04:28.150459",
+        "revisit_date": "2025-10-30",
+        "count": 1,
+        "tag": "Two Pointers",
+        "updated_time": "2025-10-29T22:05:32.171312"
     }
 }
