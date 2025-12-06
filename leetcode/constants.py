@@ -1,8 +1,11 @@
-from datetime import datetime
-import json
 from pathlib import Path
 
-neetcode_150 = {
+# Directory configuration
+BASE_URI = Path(__file__).parent
+DATA_URI = BASE_URI.parent / "data"
+
+# NeetCode 150 problem set organized by topic
+NEETCODE_150 = {
     "Arrays & Hashing": [
         "Contains Duplicate",
         "Valid Anagram",
@@ -191,22 +194,3 @@ neetcode_150 = {
         "Detect Squares"
     ]
 }
-
-base_uri = Path(__file__).parent
-data_uri = base_uri.parent/"data"
-
-def create_new_json(jsonfile: TextIOWrapper):
-    with open(data_uri/"problems.txt") as readfile:
-        res = {}
-        for topic in neetcode_150:
-            for problem in neetcode_150[topic]:
-                res[problem] = {
-                    'url': f"https://leetcode.com/problems/{'-'.join(problem.lower().split(' '))}",
-                    'updated_datetime': datetime.now().isoformat(),
-                    'revisit_date': None,
-                    'count': 0,
-                    'tag': topic
-                }
-        jsonfile.seek(0)
-        json.dump(res, jsonfile, indent=4)
-        jsonfile.truncate()
