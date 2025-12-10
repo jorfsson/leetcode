@@ -49,9 +49,9 @@
     },
     "Product of Array Except Self": {
         "url": "https://leetcode.com/problems/product-of-array-except-self",
-        "updated_datetime": "2025-07-08T19:03:13.694806",
-        "revisit_date": "2025-10-16",
-        "count": 5,
+        "updated_datetime": "2025-12-08T21:14:59.448791",
+        "revisit_date": "2026-02-06",
+        "count": 6,
         "tag": "Arrays & Hashing",
         "updated_time": "2025-09-16T21:28:17.149685"
     },
