@@ -1,49 +1,49 @@
 {
     "Contains Duplicate": {
         "url": "https://leetcode.com/problems/contains-duplicate",
-        "updated_datetime": "2025-07-08T19:03:13.694790",
-        "revisit_date": "2026-01-07",
-        "count": 6,
+        "updated_datetime": "2026-01-08T19:48:51.666938",
+        "revisit_date": "2026-04-08",
+        "count": 7,
         "tag": "Arrays & Hashing",
         "updated_time": "2025-11-08T10:17:15.818525"
     },
     "Valid Anagram": {
         "url": "https://leetcode.com/problems/valid-anagram",
-        "updated_datetime": "2025-07-08T19:03:13.694798",
-        "revisit_date": "2026-01-07",
-        "count": 6,
+        "updated_datetime": "2026-01-08T19:48:53.906176",
+        "revisit_date": "2026-04-08",
+        "count": 7,
         "tag": "Arrays & Hashing",
         "updated_time": "2025-11-08T10:39:54.717892"
     },
     "Two Sum": {
         "url": "https://leetcode.com/problems/two-sum",
-        "updated_datetime": "2025-07-08T19:03:13.694800",
-        "revisit_date": "2026-01-07",
-        "count": 6,
+        "updated_datetime": "2026-01-08T19:48:55.553272",
+        "revisit_date": "2026-04-08",
+        "count": 7,
         "tag": "Arrays & Hashing",
         "updated_time": "2025-11-08T10:40:06.659659"
     },
     "Group Anagrams": {
         "url": "https://leetcode.com/problems/group-anagrams",
-        "updated_datetime": "2025-07-08T19:03:13.694801",
-        "revisit_date": "2026-01-07",
-        "count": 6,
+        "updated_datetime": "2026-01-08T19:49:06.978032",
+        "revisit_date": "2026-04-08",
+        "count": 7,
         "tag": "Arrays & Hashing",
         "updated_time": "2025-11-08T10:40:08.455702"
     },
     "Top K Frequent Elements": {
         "url": "https://leetcode.com/problems/top-k-frequent-elements",
-        "updated_datetime": "2025-07-08T19:03:13.694803",
-        "revisit_date": "2026-01-07",
-        "count": 6,
+        "updated_datetime": "2026-01-08T19:49:08.906356",
+        "revisit_date": "2026-04-08",
+        "count": 7,
         "tag": "Arrays & Hashing",
         "updated_time": "2025-11-08T10:40:10.447618"
     },
     "Encode and Decode Strings": {
         "url": "https://leetcode.com/problems/encode-and-decode-strings",
-        "updated_datetime": "2025-07-08T19:03:13.694804",
-        "revisit_date": "2026-01-07",
-        "count": 6,
+        "updated_datetime": "2026-01-08T19:49:10.138931",
+        "revisit_date": "2026-04-08",
+        "count": 7,
         "tag": "Arrays & Hashing",
         "updated_time": "2025-11-08T10:40:12.121284"
     },
@@ -57,17 +57,17 @@
     },
     "Valid Sudoku": {
         "url": "https://leetcode.com/problems/valid-sudoku",
-        "updated_datetime": "2025-07-08T19:03:13.694807",
-        "revisit_date": "2025-10-16",
-        "count": 5,
+        "updated_datetime": "2026-01-05T21:43:01.264579",
+        "revisit_date": "2026-03-06",
+        "count": 6,
         "tag": "Arrays & Hashing",
         "updated_time": "2025-09-16T21:28:23.366322"
     },
     "Longest Consecutive Sequence": {
         "url": "https://leetcode.com/problems/longest-consecutive-sequence",
-        "updated_datetime": "2025-07-08T19:03:13.694809",
-        "revisit_date": "2025-10-17",
-        "count": 5,
+        "updated_datetime": "2026-01-05T21:43:03.499735",
+        "revisit_date": "2026-03-06",
+        "count": 6,
         "tag": "Arrays & Hashing",
         "updated_time": "2025-09-17T19:05:16.867460"
     },
@@ -81,49 +81,49 @@
     },
     "Valid Palindrome": {
         "url": "https://leetcode.com/problems/valid-palindrome",
-        "updated_datetime": "2025-07-08T19:03:13.694810",
-        "revisit_date": "2025-10-30",
-        "count": 5,
+        "updated_datetime": "2026-01-05T21:43:06.436219",
+        "revisit_date": "2026-03-06",
+        "count": 6,
         "tag": "Two Pointers",
         "updated_time": "2025-09-30T21:37:46.263746"
     },
     "Two Sum II Input Array Is Sorted": {
         "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
-        "updated_datetime": "2025-07-08T19:03:13.694812",
-        "revisit_date": "2025-10-30",
-        "count": 5,
+        "updated_datetime": "2026-01-08T19:49:11.418547",
+        "revisit_date": "2026-03-09",
+        "count": 6,
         "tag": "Two Pointers",
         "updated_time": "2025-09-30T21:37:52.128660"
     },
     "3Sum": {
         "url": "https://leetcode.com/problems/3sum",
-        "updated_datetime": "2025-07-08T19:03:13.694813",
-        "revisit_date": "2025-10-14",
-        "count": 4,
+        "updated_datetime": "2026-01-08T19:49:12.706952",
+        "revisit_date": "2026-02-07",
+        "count": 5,
         "tag": "Two Pointers",
         "updated_time": "2025-09-30T21:37:58.241909"
     },
     "Container With Most Water": {
         "url": "https://leetcode.com/problems/container-with-most-water",
-        "updated_datetime": "2025-07-08T19:03:13.694814",
-        "revisit_date": "2025-10-07",
-        "count": 3,
+        "updated_datetime": "2026-01-08T19:49:14.546608",
+        "revisit_date": "2026-01-22",
+        "count": 4,
         "tag": "Two Pointers",
         "updated_time": "2025-09-30T21:38:02.740528"
     },
     "Trapping Rain Water": {
         "url": "https://leetcode.com/problems/trapping-rain-water",
-        "updated_datetime": "2025-07-08T19:03:13.694816",
-        "revisit_date": "2025-10-01",
-        "count": 1,
+        "updated_datetime": "2026-01-08T19:49:15.850587",
+        "revisit_date": "2026-01-11",
+        "count": 2,
         "tag": "Two Pointers",
         "updated_time": "2025-09-30T21:34:40.606107"
     },
     "Valid Parentheses": {
         "url": "https://leetcode.com/problems/valid-parentheses",
-        "updated_datetime": "2025-07-08T19:03:13.694817",
-        "revisit_date": "2025-10-01",
-        "count": 1,
+        "updated_datetime": "2026-01-08T19:49:18.019207",
+        "revisit_date": "2026-01-11",
+        "count": 2,
         "tag": "Stack",
         "updated_time": "2025-09-30T23:57:48.754737"
     },
@@ -1074,9 +1074,9 @@
     },
     "Next Permutation": {
         "url": "https://leetcode.com/problems/next-permutation",
-        "updated_datetime": "2025-10-29T22:04:28.150459",
-        "revisit_date": "2025-10-30",
-        "count": 1,
+        "updated_datetime": "2026-01-08T19:49:20.035443",
+        "revisit_date": "2026-01-11",
+        "count": 2,
         "tag": "Two Pointers",
         "updated_time": "2025-10-29T22:05:32.171312"
     }
