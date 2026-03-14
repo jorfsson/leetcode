@@ -94,24 +94,25 @@ class ProblemManager:
     def get_next_problem(self) -> Generator[Tuple[str, dict], None, None]:
         """
         Yield problems in priority order:
-        1. Problems due for revisit
-        2. Uncompleted problems
+        1. Uncompleted problems
+        2. Problems due for revisit
 
         Yields:
             Tuple of (problem_name, problem_data)
         """
-        problems_to_revisit = {
-            k: v for k, v in self._problems.items()
-            if SpacedRepetition.is_due_for_review(v.get('revisit_date'))
-        }
         uncompleted_problems = {
             k: v for k, v in self._problems.items()
             if not v.get('revisit_date')
         }
+        problems_to_revisit = {
+            k: v for k, v in self._problems.items()
+            if SpacedRepetition.is_due_for_review(v.get('revisit_date'))
+        }
 
-        for k, v in problems_to_revisit.items():
+        if uncompleted_problems:
+            k, v = next(iter(uncompleted_problems.items()))
             yield k, v
-        for k, v in uncompleted_problems.items():
+        for k, v in problems_to_revisit.items():
             yield k, v
 
     def add_problem(self, problem: str, tag: str) -> None:
