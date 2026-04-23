@@ -30,6 +30,9 @@ poetry run leetcode --completed "problem-name"
 # Check completion count for a problem
 poetry run leetcode --get-count "problem-name"
 
+# Add a new problem interactively (prompts for name, category, and optional completion)
+poetry run leetcode --add-problem
+
 # Reset the problems database to default state
 poetry run leetcode --reset
 ```

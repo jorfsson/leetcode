@@ -91,7 +91,7 @@ class ProblemManager:
         self._update_data()
         return self._problems[problem]['count']
 
-    def get_next_problem(self) -> Generator[Tuple[str, dict], None, None]:
+    def get_next_problem(self, categories: Optional[List[str]] = None) -> Generator[Tuple[str, dict], None, None]:
         """
         Yield problems in priority order:
         1. Uncompleted problems
@@ -100,12 +100,17 @@ class ProblemManager:
         Yields:
             Tuple of (problem_name, problem_data)
         """
+        pool = self._problems
+        if categories:
+            normalized = [c.lower() for c in categories]
+            pool = {k: v for k, v in pool.items() if v.get('tag', '').lower() in normalized}
+
         uncompleted_problems = {
-            k: v for k, v in self._problems.items()
+            k: v for k, v in pool.items()
             if not v.get('revisit_date')
         }
         problems_to_revisit = {
-            k: v for k, v in self._problems.items()
+            k: v for k, v in pool.items()
             if SpacedRepetition.is_due_for_review(v.get('revisit_date'))
         }
 

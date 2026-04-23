@@ -73,9 +73,9 @@
     },
     "Move Zeroes": {
         "url": "https://leetcode.com/problems/move-zeroes",
-        "updated_datetime": "2026-03-10T18:26:20.334110",
-        "revisit_date": "2026-03-24",
-        "count": 4,
+        "updated_datetime": "2026-03-24T23:10:09.574350",
+        "revisit_date": "2026-04-23",
+        "count": 5,
         "tag": "Two Pointers",
         "updated_time": "2025-08-26T18:08:16.924357"
     },
@@ -129,9 +129,9 @@
     },
     "Min Stack": {
         "url": "https://leetcode.com/problems/min-stack",
-        "updated_datetime": "2026-03-10T18:26:30.020724",
-        "revisit_date": "2026-03-24",
-        "count": 4,
+        "updated_datetime": "2026-03-25T21:40:18.430698",
+        "revisit_date": "2026-04-24",
+        "count": 5,
         "tag": "Stack"
     },
     "Evaluate Reverse Polish Notation": {
@@ -164,16 +164,16 @@
     },
     "Largest Rectangle in Histogram": {
         "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
-        "updated_datetime": "2025-07-08T19:03:13.694825",
-        "revisit_date": null,
-        "count": 0,
+        "updated_datetime": "2026-03-24T19:59:12.980783",
+        "revisit_date": "2026-03-25",
+        "count": 1,
         "tag": "Stack"
     },
     "Binary Search": {
         "url": "https://leetcode.com/problems/binary-search",
-        "updated_datetime": "2025-07-08T19:03:13.694826",
-        "revisit_date": null,
-        "count": 0,
+        "updated_datetime": "2026-03-25T20:50:46.348069",
+        "revisit_date": "2026-03-26",
+        "count": 1,
         "tag": "Binary Search"
     },
     "Search a 2D Matrix": {
@@ -1079,5 +1079,33 @@
         "count": 5,
         "tag": "Two Pointers",
         "updated_time": "2025-10-29T22:05:32.171312"
+    },
+    "next greater problem": {
+        "url": "https://leetcode.com/problems/next-greater-problem",
+        "updated_datetime": "2026-03-24T19:49:55.619974",
+        "revisit_date": "2026-03-25",
+        "count": 1,
+        "tag": "Stack"
+    },
+    "minimum-distance-between-three-equal-elements-ii": {
+        "url": "https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii",
+        "updated_datetime": "2026-04-12T11:26:11.879341",
+        "revisit_date": "2026-04-13",
+        "count": 1,
+        "tag": "Arrays & Hashing"
+    },
+    "find-first-and-last-position-of-element-in-sorted-array": {
+        "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+        "updated_datetime": "2026-04-12T11:27:04.480037",
+        "revisit_date": "2026-04-13",
+        "count": 1,
+        "tag": "Binary Search"
+    },
+    "first-bad-version": {
+        "url": "https://leetcode.com/problems/first-bad-version",
+        "updated_datetime": "2026-04-12T11:28:14.529376",
+        "revisit_date": "2026-04-13",
+        "count": 1,
+        "tag": "Binary Search"
     }
 }
