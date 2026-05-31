@@ -35,9 +35,6 @@ Boundary problems often use exclusive style because the answer may be at `high`.
 
 Mixing these up causes infinite loops or missed elements.
 
-### Midpoint Overflow
-Use `mid = low + (high - low) // 2` instead of `(low + high) // 2` to avoid integer overflow in languages with fixed-width integers.
-
 ## Problems
 <!-- Problems mapped to the concept or pattern they exercise.
 Format: **Problem Name** — what it teaches / which pattern it exercises -->

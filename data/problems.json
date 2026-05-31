@@ -1107,5 +1107,12 @@
         "revisit_date": "2026-04-13",
         "count": 1,
         "tag": "Binary Search"
+    },
+    "3sum-smaller": {
+        "url": "https://leetcode.com/problems/3sum-smaller",
+        "updated_datetime": "2026-04-26T11:25:15.775910",
+        "revisit_date": "2026-04-27",
+        "count": 1,
+        "tag": "Binary Search"
     }
 }
