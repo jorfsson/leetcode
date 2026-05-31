@@ -1,10 +1,22 @@
 # Backtracking
 
 ## Core Concept
-<!-- What is this category fundamentally about? What problem class does it solve? -->
+Make a choice
+Explore consequences
+Undo the choice
+Try another choice
+
+
+def dfs(start, path):
+    for i in range(start, n):
+        choose(i)
+        dfs(i + 1, curr)
+        unchoose(i)
 
 ## Key Patterns
-<!-- Recurring techniques and approaches used across problems in this category -->
+**Enumeration**: Visit every possible combination of choices; generate all states.
+**Target Search**: Find paths satisfying a constraint; search for feasible solutions.
+**Permutation Search**: Produce all possible orderings; use a set.
 
 ## When to Recognize It
 <!-- Signals in a problem statement that suggest this category applies -->
