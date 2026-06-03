@@ -143,9 +143,9 @@
     },
     "Generate Parentheses": {
         "url": "https://leetcode.com/problems/generate-parentheses",
-        "updated_datetime": "2026-03-10T18:26:32.747054",
-        "revisit_date": "2026-03-13",
-        "count": 2,
+        "updated_datetime": "2026-06-02T18:21:31.491035",
+        "revisit_date": "2026-06-09",
+        "count": 3,
         "tag": "Stack"
     },
     "Daily Temperatures": {
